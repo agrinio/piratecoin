@@ -1,0 +1,4 @@
+piratecoin
+==========
+
+Cryptocurrency coin
